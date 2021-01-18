@@ -1,2 +1,2 @@
 # graphpy1
-a repo for working on graphing equations with python and numpy
+a repo for graphing equations with python and numpy
